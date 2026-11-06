@@ -101,4 +101,4 @@ Contoh lain: pelanggan Bisnis dengan 600 kWh menghasilkan Rp1.176.690, dan pelan
 
 ## Laporan
 
-Laporan lengkap beserta dokumentasi pengujian tersedia pada file `Laporan_UTS_PBO_Tagihan_Listrik.docx`.
+Laporan lengkap, dokumentasi pengujian dan lampiran bantuan AI tersedia pada file `Laporan_UTS_PBO_Tagihan_Listrik.docx`.
